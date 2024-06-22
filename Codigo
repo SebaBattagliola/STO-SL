@@ -6,6 +6,9 @@ import "./IERC1400.sol";
 import "./IERC1400TokensRecipient.sol";
 import "./IERC1400TokensSender.sol";
 
+
+//Token LoveShare Utility for DAPPs TrueDatte
+
 contract LoveShare is IERC1400 {
     string private _name;
     string private _symbol;
