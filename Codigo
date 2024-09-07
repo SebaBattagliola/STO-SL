@@ -7,7 +7,7 @@ import "./IERC1400TokensRecipient.sol";
 import "./IERC1400TokensSender.sol";
 
 
-//Token LoveShare Utility for DAPPs TrueDatte
+//Token LoveShare Utility for DAPPs TrueDatte... Utyliti metamask
 
 contract LoveShare is IERC1400 {
     string private _name;
